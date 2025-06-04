@@ -1,0 +1,34 @@
+/* style.css */
+
+/* 导入 CSS 变量 */
+@import url('_variables.css');
+
+/* 导入全局基础样式和通用工具类 */
+@import url('_base.css');
+
+/* 导入应用整体布局和主内容区布局 */
+@import url('_layout.css');
+
+/* 导入主内容区头部样式 */
+@import url('_header.css');
+
+/* 导入侧边栏导航和用户资料样式 */
+@import url('_sidebar.css');
+
+/* 导入通用内容区（如空状态页，已包含居中逻辑） */
+@import url('_sections.css');
+
+/* 导入日记卡片、反馈卡片及右侧面板样式 */
+@import url('_diary_feedback.css');
+
+/* 导入后端API接口展示样式 */
+@import url('_api_docs.css');
+
+/* 导入模态框样式 */
+@import url('_modal.css');
+
+/* 导入骨架屏样式 */
+@import url('_loading_skeleton.css');
+
+/* 导入媒体查询和响应式调整 */
+@import url('_responsive.css');
