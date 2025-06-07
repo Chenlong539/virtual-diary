@@ -48,8 +48,9 @@
 
 ## 目录结构
 
-- `src/`：主要源代码
-- `public/`：静态资源
+- `css/`：样式文件
+- `js/`：JavaScript 源代码
+- `index.html`：入口 HTML 文件
 - `README.md`：项目说明文档
 
 ## 贡献
