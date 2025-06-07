@@ -11,11 +11,9 @@
 
 ## 技术栈
 
-- React
-- TypeScript
-- Redux 或其他状态管理
-- CSS/SCSS/Styled Components
-- 其他常用前端库
+- CSS
+- JavaScript
+- HTML
 
 ## 安装与启动
 
